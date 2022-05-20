@@ -11,7 +11,7 @@ class StartApp extends React.Component {
           <div className="card card--width">
             <div className="card-header">
               <h5>Laboratorio 10</h5>
-              <h6>Memoria Sistemas y Tecnologías Web</h6>
+              <h6 dara-testid="h6">Memoria Sistemas y Tecnologías Web</h6>
             </div>
             <div className="card-body">
               <h5 className="card-title">Axel Leonardo López Barrera 20768</h5>
